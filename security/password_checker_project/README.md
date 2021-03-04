@@ -1,4 +1,4 @@
-check_my_pass.py checks if give passwords have been pawned.
+check_my_pass.py checks if given passwords have been pawned.
 
 Use example:
 python check_my_pass.py password-to-check another-password 1234
