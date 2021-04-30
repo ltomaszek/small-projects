@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0492e1a6-5ef7-4048-9ea8-e401789d9ea6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ISBNValidator" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rsiXrB2VUGtCbPLRkvTRRX1mz8" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="C:/education/Udemy/java/Practical Test Driven Development for Java Programmers/Practicals+And+Code/Junit5 version/Starting workspace for Chapter 8/objenesis-2.6.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ltcode.isbntools" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ltcode.isbntools" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.ltcode.isbntools.ExampleTests" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ltcode.isbntools" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent">
+    <configuration name="StockManagementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltcode.isbntools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltcode.isbntools" />
+      <option name="MAIN_CLASS_NAME" value="com.ltcode.isbntools.StockManagementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManagementTest.databaseIsUsedWhenDataIsPresent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltcode.isbntools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltcode.isbntools" />
+      <option name="MAIN_CLASS_NAME" value="com.ltcode.isbntools.StockManagementTest" />
+      <option name="METHOD_NAME" value="databaseIsUsedWhenDataIsPresent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManagementTest.testCanGetACorrectLocatorCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltcode.isbntools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltcode.isbntools" />
+      <option name="MAIN_CLASS_NAME" value="com.ltcode.isbntools.StockManagementTest" />
+      <option name="METHOD_NAME" value="testCanGetACorrectLocatorCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManagementTest.webServiceIsUsedWhenDataIsNotPresentInDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltcode.isbntools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltcode.isbntools" />
+      <option name="MAIN_CLASS_NAME" value="com.ltcode.isbntools.StockManagementTest" />
+      <option name="METHOD_NAME" value="webServiceIsUsedWhenDataIsNotPresentInDatabase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockManagementTest.webServiceIsUsedWhenDataIsPresent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltcode.isbntools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltcode.isbntools" />
+      <option name="MAIN_CLASS_NAME" value="com.ltcode.isbntools.StockManagementTest" />
+      <option name="METHOD_NAME" value="webServiceIsUsedWhenDataIsPresent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent" />
+        <item itemvalue="JUnit.StockManagementTest" />
+        <item itemvalue="JUnit.StockManagementTest.webServiceIsUsedWhenDataIsNotPresentInDatabase" />
+        <item itemvalue="JUnit.StockManagementTest.webServiceIsUsedWhenDataIsPresent" />
+        <item itemvalue="JUnit.StockManagementTest.testCanGetACorrectLocatorCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0492e1a6-5ef7-4048-9ea8-e401789d9ea6" name="Default Changelist" comment="" />
+      <created>1619771240799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619771240799</updated>
+    </task>
+    <servers />
+  </component>
+</project>
